@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Spiderman Site</title>
+    <link rel="stylesheet" href="main.css"> 
+</head>
+<body>
+    <a id="top"></a>
+    <div id="header"><a href="index.html"><img src="spider.png" style="width: 1500px; height: 400px;"></a></div>
+    <div id="nav">
+        <a href="file:///Users/web2022/Desktop/fanSite/standard.html">Home</a>
+        <a href="Store.html" target="_blank">Store</a>
+        <a href="https://www.shutterstock.com/search/spiderman" target="_blank">Images</a>
+        <a href="https://www.britannica.com/topic/Spider-Man-comic-book-character" target="_blank">About</a>
+    </div>
+    <div id="main">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Web_of_Spider-Man_Vol_1_129-1.png/250px-Web_of_Spider-Man_Vol_1_129-1.png" height="=250" width="600" alt="">
+        
+    </div>
+    <div id="footer">
+        <p> ©Joseph Zhirzhan 2020</p>
+    </div>
+</body>
+  
